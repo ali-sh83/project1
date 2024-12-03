@@ -1,3 +1,2 @@
-/Users/alishahristani/Documents/project/project_1/cmake-build-debug/CMakeFiles/project_1.dir
 /Users/alishahristani/Documents/project/project_1/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/alishahristani/Documents/project/project_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
